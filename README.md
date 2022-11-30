@@ -2,12 +2,12 @@
 Table of Contents
 
 Problem Statement: 
-	-Increase Sales revenue for value samart supermarket using 		their customers' Data.
+	-Increase Sales revenue for **Value Smart Supermarket** using their customers' Data.
 
 Research  Objectives:
-	- Identifying the best profit generating location and create 		another Branch.
-	-Identifying the best selling products and increase their 	production.	
-
+	- Identifying the best profit generating location and create another Branch.
+	-Identifying the best selling products and increase their production.
+	
 Sales Dashboard
 
 Conclusion and Recommendation
